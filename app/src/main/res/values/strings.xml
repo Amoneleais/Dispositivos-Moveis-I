@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Avaliação Mobile I</string>
+    <string name="deletar_todos">Apagar Todos</string>
+    <string name="criar_novo">Escrever</string>
+    <string name="salvar_documento">Salvar</string>
+    <string name="apagar_documento">Apagar</string>
+    <string name="titulo">Titulo da Anotação</string>
+    <string name="anotacao">Anotação</string>
+    <string name="hint">Escreva aqui</string>
+</resources>
